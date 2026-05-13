@@ -1,0 +1,122 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.07.2015 17:57:07
+
+newmtl Material__73
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Legs_D.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Legs_D.tga
+	map_bump Normal_Bump_Normal_Bump.tga
+
+newmtl Material__74
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Shirt_D.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Shirt_D.tga
+	map_d C:\Users\vados\Desktop\Riddler\Riddler_BM3_Shirt_D.tga
+	map_bump Normal_Bump_Normal_Bump.tga
+
+newmtl Material__75
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Vest_D.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Vest_D.tga
+	map_bump Normal_Bump_Normal_Bump.tga
+
+newmtl Material__76
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Skin_D.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Skin_D.tga
+	map_bump Normal_Bump_Normal_Bump.tga
+
+newmtl Material__77
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Eye_High_D2.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Eye_High_D2.tga
+
+newmtl Material__78
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\teeth_tongue_D.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\teeth_tongue_D.tga
+	map_bump Normal_Bump_Normal_Bump.tga
+
+newmtl Material__79
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Hair_s2_D.tga
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Hair_s2_D.tga
+	map_d C:\Users\vados\Desktop\Riddler\Riddler_BM3_Hair_s2_D.tga
+	map_bump Normal_Bump_Normal_Bump.tga
+
+newmtl Material__80
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\Riddler\Riddler_BM3_Eyeball_Lens_Cinematic_MAT_INST
+	map_Kd C:\Users\vados\Desktop\Riddler\Riddler_BM3_Eyeball_Lens_Cinematic_MAT_INST
