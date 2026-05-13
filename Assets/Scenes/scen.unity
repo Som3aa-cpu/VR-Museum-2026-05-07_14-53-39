@@ -305,7 +305,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -5645937942226959685, guid: 5849b8e5c5bd5e34aaaeb92700a989b1, type: 3}
-<<<<<<< Updated upstream
 --- !u!1 &248183117 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6689036041284674117, guid: 737aaf04be29eaa4387e7a38b88d89b8, type: 3}
@@ -578,12 +577,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 716b530be6797b2438fab30b854dac4a, type: 3}
   m_PrefabInstance: {fileID: 1002495742}
-=======
---- !u!4 &212600099 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 5849b8e5c5bd5e34aaaeb92700a989b1, type: 3}
-  m_PrefabInstance: {fileID: 212600098}
->>>>>>> Stashed changes
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &273251017
 PrefabInstance:
