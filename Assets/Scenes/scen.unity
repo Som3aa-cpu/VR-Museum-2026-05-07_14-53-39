@@ -6701,7 +6701,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Welcome to outr musem of intrest \nThis musem is about our intersets through
+  m_text: "Welcome to our musem of intrest \nThis musem is about our intersets through
     out our lifes \n\n\ndiclamer: every button here is a toogle so press on it again
     to stop sound or video "
   m_isRightToLeft: 0
